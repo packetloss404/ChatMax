@@ -19,7 +19,7 @@ Built with [Tauri v2](https://tauri.app/) and React.
 
 - [Node.js](https://nodejs.org/) 18+
 - [Rust](https://www.rust-lang.org/tools/install) (for Tauri)
-- A [MiniMax API key](https://www.minimax.io/)
+- A [MiniMax API key](https://www.minimax.io/) (pay-as-you-go or Token Plan)
 
 ## Getting Started
 
