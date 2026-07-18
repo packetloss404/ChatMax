@@ -28,3 +28,6 @@ npm-debug.log*
 
 # Claude Code
 .claude/
+
+# Tauri-generated schemas (build output)
+src-tauri/gen/schemas/
